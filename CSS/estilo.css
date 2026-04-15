@@ -1,0 +1,28 @@
+h1{
+    text-align: center;
+    text-decoration: underline;
+}
+
+h5{
+    color: #000;
+}
+
+p{
+    color: #000;
+    font-weight: bold;
+    text-align: center;
+}
+
+nav{
+    text-align: center;
+}
+
+.responsive-img {
+    display: block;
+    max-width: 100%;
+    height: auto;
+}
+
+footer p {
+    color: aliceblue;
+}
