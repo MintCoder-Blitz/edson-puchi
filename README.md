@@ -15,4 +15,8 @@ El primer commit es el momento en el cual se agrego el trabajo o se subio a git,
 -mejora del carrusel de imagenes
 -se agrego imagen a la historia
 -se agregaron los precios
--
+
+#tercer commit:
+-se agregaron imagenes a corde a los testimonios 
+-se modifico la orientacion de algunas imagenes
+-se arreglo el tema de que texto se mostrara en pantallas madianas-grandes y celulares o pantallas pequeñas
