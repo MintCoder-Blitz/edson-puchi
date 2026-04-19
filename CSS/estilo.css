@@ -6,6 +6,11 @@ h2{
     color: #000;
     text-align: center;
 }
+h5 {
+    font-weight: bold;
+    text-align: center;
+}
+
 
 p{
     color: #000;
@@ -31,11 +36,19 @@ nav{
 .office-img {
     max-width: 70%;
     height: auto;
+    border-color: #000;
+    border-width: 4px;
+    border-style: solid;
+    border-radius: 10px;
 }
 
 .history-img {
     max-width: 70%;
     height: auto;
+    border-color: #000;
+    border-width: 4px;
+    border-style: solid;
+    border-radius: 10px;
 }
 
 .table-center {
@@ -54,7 +67,7 @@ nav{
 }
 
 .carousel-item {
-    max-height: 450px;
+    max-height: 500px;
 }
 
 footer p {

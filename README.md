@@ -20,3 +20,14 @@ El primer commit es el momento en el cual se agrego el trabajo o se subio a git,
 -se agregaron imagenes a corde a los testimonios 
 -se modifico la orientacion de algunas imagenes
 -se arreglo el tema de que texto se mostrara en pantallas madianas-grandes y celulares o pantallas pequeñas
+
+#tercer commit: 
+-se agregaron imagenes a corde a los testimonios 
+-se modifico la orientacion de algunas imagenes 
+-se arreglo el tema de que texto se mostrara en pantallas madianas-grandes y celulares o pantallas pequeñas
+
+#cuarto commit:
+-se mejoro el apartado de testimonios
+-se agrego la informaccion de como llegar a la empresa
+-se mejoraron algunos aspectos de los servicios 
+-cambio de formatos en algunas imagenes
