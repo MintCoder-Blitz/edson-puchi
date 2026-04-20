@@ -1,4 +1,4 @@
-bienvenidos a este proyecto, para poder ejecutarlo tienen que descargar todos los archivos y guardalos en una carpeta, despues de eso ejecutar el archivo index.html
+bienvenidos a este proyecto, para poder ejecutar este proyecto, tienen que descargar todos los archivos y guardalos en una carpeta, despues de eso ejecutar, el archivo index.html
 
 #primer commit:
 El primer commit es el momento en el cual se agrego el trabajo o se subio a git, lo que contiene es:
@@ -31,3 +31,6 @@ El primer commit es el momento en el cual se agrego el trabajo o se subio a git,
 -se agrego la informaccion de como llegar a la empresa
 -se mejoraron algunos aspectos de los servicios 
 -cambio de formatos en algunas imagenes
+
+#Quinto commit:
+-se agrego la informacion del footer
